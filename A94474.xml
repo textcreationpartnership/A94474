@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the honourable the House of Commons now assembled in Parliament The humble petition of divers knights, esquires, ministers, gentlemen, and freeholders of the Countie Palatine of Lancaster.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94474</idno>
+            <idno type="STC">Wing T1436</idno>
+            <idno type="STC">Thomason 669.f.4[81]</idno>
+            <idno type="STC">ESTC R210309</idno>
+            <idno type="EEBO-CITATION">99869117</idno>
+            <idno type="PROQUEST">99869117</idno>
+            <idno type="VID">160703</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94474)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160703)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f4[81])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the honourable the House of Commons now assembled in Parliament The humble petition of divers knights, esquires, ministers, gentlemen, and freeholders of the Countie Palatine of Lancaster.</title>
+               </titleStmt>
+               <extent>1 sheet ([1]  p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Felix Kingston,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Thanks Parliament for appointing Lord Wharton Lord-Lieutenant of the county. They fear an invasion of the Irish rebels and ask for various defensive measures. -- Steele.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  Great Britain --  17th century --  Early works to 1800.</term>
+               <term>Lancaster (England : County Palatine) --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:160703:1" rendition="simple:additions"/>
+            <head>TO THE HONOVRABLE THE HOUSE OF COMMONS NOW ASSEMBLED IN PARLIAMENT. The humble Petition of divers Knights, Eſquires, Miniſters, Gentlemen, and Freeholders of the Countie Palatine of Lancaſter.</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioners with all the gratitude that thankfull hearts can expreſſe, do acknowledge the fidelitie, patience, and unparaleld induſtry of this Honorable Houſe in the indevours to reſtore to order the diſcompoſed condition of this Church and State; and to put the ſame into a way to uni<g ref="char:EOLhyphen"/>tie, puretie, and peace. For purging the Fountaines of Government, and eſtabliſhing his Majeſties royall Throne upon the old and ſure foundation of impartiall juſtice, Nationall Lawes, and the Subjects love. For the bleſſed union of two Kingdomes, to the terror of our enemies, the ſtrength and ſplendour of both Nations. For expunging out of the Church innovations, and confining Church men to their proper functions; and the future hopes of a Nationall Synode of able Divines, to compoſſe the Civill war of the Church, and ſettle the differences both of doctrine and diſcipline. For reſtoring to the Subjects of this King<g ref="char:EOLhyphen"/>dome, courage, induſtrie, and vivacitie of Spirit, by the freedome of their perſons and eſtates. For ſettling the preſent fruition, and the hopes of a laſting poſſeſſion of theſe high and unvalueable benefits, by diſpoſing of the <hi>Militia,</hi> and Forts of the Kingdome under the commands of perſons of Honour and unqueſtionable fidelitie (of which number your Petitioners do acknowledge the Noble Lord, the L. <hi>Wharton,</hi> appointed by Parliament Lord Lievetenant of this Countie, whom with all thankfulneſſe they do receive, and according to the power wherewith he ſhall be truſted, will ever moſt readily and willingly obey.) For giving life (by execution) to the Lawes againſt Recuſants, and ſecuritie of life to the Proteſtants by their diſarming. For vindication of the Priviledges of Parlia<g ref="char:EOLhyphen"/>ment, (the firme Baſis of this Government, the inheritance of the Subject, and the beſt guard of his Majeſties roy<g ref="char:EOLhyphen"/>all perſon, crowne and dignitie:) So that by the bleſſing of Almightie God, and the proſperous care of this Ho<g ref="char:EOLhyphen"/>nourable Houſe, the practiſes (whether forraigne, or domeſtick) of the enemies to this State, ſhall be averted, de<g ref="char:EOLhyphen"/>tected, and brought to nought.</p>
+            <p>Yet in regard the courſe of theſe great affaires, ſo highly concerning the ſafetie, plentie, and quiet of the King<g ref="char:EOLhyphen"/>dome, hath beene much interrupted by ſome, whoſe ſiniſter ends, or corrupted underſtandings (capable of no amendment) hath made them active for introduction of publike calamities. And your Petitioners being ſeated in the mouth of danger, and having freſh and daily ſpectacles of the Iriſh cruelties preſented to their eyes, cannot chuſe but apprehend feare from the noveltie of ſo great barbariſme: And leſt that Kingdome (for want of timely ayds) being loſt, the war (or rather the Maſſacre) ſhould be tranſported hither from the oppoſite ſhore, where the number of popiſh Recuſants, and the opportunity of landing may invite an invaſion. Your Petitioners therefore do in all humbleneſſe preſent to the conſideration of this Honourable Aſſembly their feares, dangers, and deſires; humbly praying</p>
+            <p>That ſuch perſons whether Eccleſiaſticall or Temporall, whoſe ends and intereſſes are not the ſame with the Proteſtants of this Kingdome, may be removed from the great counſell of the Kingdome.</p>
+            <p>That the diſtractions of the Church may be ſettled by a Nationall Synode.</p>
+            <p>That the number of preaching Miniſters may be augmented in this Countie, and a better diſtribution of the Church revenue, that ſo the tithes of vaſt Pariſhes may not be wholly drawne to the Pariſh Church, and the Mi<g ref="char:EOLhyphen"/>niſters of the Chappels far diſtant, be expoſed to the exhibition of a poore and ignorant auditorie.</p>
+            <p>That as well a proviſion be made for the diſtreſſed (and deſtitute of all the comforts of this life) our poore bre<g ref="char:EOLhyphen"/>thren of Ireland, that in multitudes daily arrive in this Countie; as a ſpeedie ayde advanced to ſtay the inſolencie and crueltie of the enemie, whoſe boaſt is to make the fruitfull parts of this Kingdome the ſeat of warre, when they have cleared that Kingdome from ſtrangers.</p>
+            <p>THAT a Fleet of ſmall Ships may be appointed for the guard of this Coaſt, as well to prevent the ayde and intelligence that may be given to the Rebels from the Papiſts of theſe, or any other parts, as for defence of your Petitioners, and other Proteſtants, his Majeſties faithfull Subjects, inhabiting the Maritime parts of this Kingdome, oppoſite to <hi>Ireland.</hi>
+            </p>
+            <p>THAT the Recuſants of this Countie may be diſarmed, and ſuch Ports or other ſtrengths, as yet remain in any of their keepings, may be diſpoſed into the hands of Proteſtants, and that ſufficient Guards may be appointed in places convenient, and the <hi>Militia</hi> of the Countie put into a poſture for defence of the ſame.</p>
+            <p>THAT the petition concerning the breach of Priviledges at the Election of Knights for this County (unpara<g ref="char:EOLhyphen"/>leld by any Election in this Kingdome, as your Petitioners beleeve)<g ref="char:punc">▪</g> As alſo the other grievances of the Countie (contained in a petition exhibited twelve Months ſince, and more particularly related in a Declaration lately pre<g ref="char:EOLhyphen"/>ſented to ſome Members of this Honourable Houſe) may receive examination, and redreſſe: And that ſuch as ſhall be found to have been inſtruments of bringing in an Arbitrary and inſolent Government, may make repara<g ref="char:EOLhyphen"/>tion for the oppreſſions they have done to their Countrey, And henceforth be excluded from the exerciſe of that authority, which (it may be feared) they would again abuſe, if they had again the like occaſion.</p>
+            <closer>And your Petitioners will be ever ready with their lives and eſtates to defend his Majeſties Royall Perſon, the perſons and Priviledges of the Members of this Houſe, the Proteſtant Religion, and Lawes of this Kingdome, and to bring to condigne puniſhment all oppoſers, as they are bound by their late Proteſtation: And ever to pray for the happy proceedings of this Parliament.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Felix Kingſton.</hi> 1641.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
